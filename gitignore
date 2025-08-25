@@ -1,0 +1,10 @@
+uploaded_files/*
+!uploaded_files/README.md
+course_db.sql
+.DS_Store
+Thumbs.db
+.env
+node_modules/
+vendor/
+*.pem
+*.key
