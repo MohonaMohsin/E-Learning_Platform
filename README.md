@@ -1,1 +1,2 @@
-# 10-minute-school-clone
+# E-Learning Platform
+
